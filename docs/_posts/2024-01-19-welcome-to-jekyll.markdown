@@ -1,29 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Book Review: Chip War by Chris Miller"
 date:   2024-01-19 22:29:30 +0530
-categories: jekyll update
+categories: Book reviews
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+[CHIP WAR - The fight for the world's most critical technology][chip-war-publisher] by Chris Miller is a fascinating read. It is deservingly the [FT Business Book of the Year][ft-business-book-2022] 2022.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+The book traces development of semiconductor chips from their infancy to the current state. But, it's not just a technology history book. It is a captivating triangulation of technology, business and politics surrounding semiconductor chips. The three parallel streams go all the way from cover to cover, and it's the superb inter-mixing of these that give this book it's edge.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The author walks us through technical milestones in the evolution of this technology, starting from an interconnected mess of wires, eventually leading to nanometer scale structures constituting modern chips. The book brings out the differences between various kind of chips like processors, DRAMs, GPUs and NAND flash. It covers both design and manufacturing aspects involved. It talks about EDA softwares, silicon wafers, etching, exposing, packaging and testing. Being a critical piece, Lithography gets a lot of mention. The book covers how predictions have held up till date and where we are likely heading.
 
-Jekyll also offers powerful support for code snippets:
+On the business side, it narrates a journey starting from enterpreneurs in Silicon Valley, to challengers in Southeast Asia, and current champions in Taiwan. It highlights the globally distributed nature of the business and the factors causing it. It covers business strategies like segregation of design and manufacturing (ARM and TSMC) as opposed to doing both (Intel). It brings the lesser known but uniquely positioned players in the industry like ASML and Texas Instruments.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+On the political arena, it brings out the critical role of governments as promoters and consumers of this technology. It highlights the initiatives of the US Department of Defense in promoting semiconductor research and the edge that it provides to US Millitary on the battlefield. It emphasizes the crucial role governments in Japan, Korea, Taiwan and recently China have played in establishing cutting edge research, design and manufacturing in their countries.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Toward the end of the book, author focuses on the geopolitical and economic risks that arise as US lags behind countries in Southeast Asia on cutting edge manufacturing. As the biggest geopolitical rival, China is discussed in detail though it's currenlty lagging US and it's allies by at-least a few years. Author presents cases arguing how US and it's allies are better positioned to win this race in the coming decades.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+To conclude, this book is as informative as it's fascinating. To people working in related areas, it will read like a thriller novel. Owing to superb and easy presentation by the author, it will appeal to readers far beyond it's theme.
+
+[chip-war-publisher]: https://www.simonandschuster.com/books/Chip-War/Chris-Miller/9781982172008
+[ft-business-book-2022]: https://ig.ft.com/sites/business-book-award/books/2022/winner/chip-war-by-chris-miller/
