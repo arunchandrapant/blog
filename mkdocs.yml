@@ -3,6 +3,7 @@ site_name: "अरुण चन्द्र पन्त"
 theme:
   icon:
     logo: fontawesome/solid/mountain-sun
+  favicon: images/favicon.png
   language: en
   name: material
   palette:
