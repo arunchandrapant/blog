@@ -1,9 +1,13 @@
 ---
-layout: post
-title:  "C# Notes: Static Code Analysis"
-date:   2024-01-21 20:00:00 +0530
-categories: CSharp Notes
+date: 2024-01-21
+title: Static Code Analysis for CSharp
+categories:
+  - C# Notes
 ---
+
+When it comes to static code analysis for C#, there are many options to choose from.
+
+<!-- more -->
 
 > This article contains my notes on C#. Information here is best to my limited knowledge and may be incomplete or incorrect. Use a definitive source as reference for your use cases. This page will be updated with new information as I find out more.
 

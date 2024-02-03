@@ -1,11 +1,13 @@
 ---
-layout: post
-title:  "Book Review: Chip War by Chris Miller"
-date:   2024-01-19 22:29:30 +0530
-categories: Book reviews
+title: Chip War by Chris Miller
+date: 2024-01-19
+categories:
+  - Book Review
 ---
 
 [CHIP WAR - The fight for the world's most critical technology][chip-war-publisher] by Chris Miller is a fascinating read. It is deservingly the [FT Business Book of the Year][ft-business-book-2022] 2022.
+
+<!-- more -->
 
 The book traces development of semiconductor chips from their infancy to the current state. But, it's not just a technology history book. It is a captivating triangulation of technology, business and politics surrounding semiconductor chips. The three parallel streams go all the way from cover to cover, and it's the superb inter-mixing of these that give the book it's edge.
 
