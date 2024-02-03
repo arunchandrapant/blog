@@ -59,7 +59,7 @@ CodeQL is a popular SAST (Static Application Security Testing) tool, typically u
 
 It can be easily integrated into CI pipeline using [codeql-action][codeql-action] provided by GitHub. The default integration checks only for security issues (can be modified to do more checks). You can do custom integration with scripts via CodeQL CLI.
 
-Before analysis, code needs to be built, during which a database is populated. Analysis is run over this database using queries. On large codebases the entire process can take long (10+ minutes). Output is generated to SARIF files which can be uploaded to GitHub UI for interactive viewing.
+Before analysis, code needs to be built, during which a database is populated. Analysis is run over this database using queries. On large codebases the entire process can take long (hours). Output is generated to SARIF files which can be uploaded to GitHub UI for interactive viewing.
 
 Due to it's nature, an IDE plugin which can interactively surface issues while coding is not available.
 
